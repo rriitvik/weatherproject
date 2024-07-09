@@ -1,0 +1,22 @@
+.InfoBox {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+  }
+  
+  .WeatherCard {
+    max-width: 345px;
+    box-shadow: 0 3px 5px #00000033;
+    border-radius: 10px;
+    background-color: #407088;
+  }
+  
+  .WeatherImage {
+    height: 140px; 
+    background-color: #407088;
+    object-fit: contain;
+  }
+  .Information{
+    background-color: #e0ffcd;
+  }
